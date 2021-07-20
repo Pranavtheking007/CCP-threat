@@ -1,0 +1,20 @@
+nav a{
+    text-decoration: none;
+    color: lightyellow;
+    text-align: center;
+    padding: 20px;
+    float: left;
+}
+
+nav{
+    background-color: mediumblue;
+    overflow: hidden;
+}
+
+nav a:hover{
+    color: forestgreen;
+}
+
+nav a:visited{
+    color: chocolate;
+}
